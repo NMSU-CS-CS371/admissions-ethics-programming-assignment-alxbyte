@@ -29,7 +29,9 @@ or locally via terminal:
 ```bash
 javac Applicant.java Admissions.java Main.java
 java Main
+```
 
+Alexis Quintero
 
 # Feature Selection & Design
 - What variables did you include, and why?
